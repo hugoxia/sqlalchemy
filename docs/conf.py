@@ -89,8 +89,9 @@ todo_include_todos = True
 # The theme to use for HTML and HTML Help pages.  See the documentation for
 # a list of builtin themes.
 #
-html_theme = 'alabaster'
-RTD_NEW_THEME = True
+html_theme = 'default'
+# html_theme = 'alabaster'
+# RTD_NEW_THEME = True
 
 # For more details, to visit 
 # http://ericholscher.com/blog/2013/nov/4/new-theme-read-the-docs/#using-it

@@ -90,7 +90,11 @@ todo_include_todos = True
 # a list of builtin themes.
 #
 html_theme = 'alabaster'
+RTD_NEW_THEME = True
 
+# For more details, to visit 
+# http://ericholscher.com/blog/2013/nov/4/new-theme-read-the-docs/#using-it
+#
 # Theme options are theme-specific and customize the look and feel of a theme
 # further.  For a list of options available for each theme, see the
 # documentation.
